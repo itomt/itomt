@@ -7,7 +7,7 @@
 # Markdown Test
 ## Section 1
 Isac Newton says...\
-$$F=m\ddot{x}$$
+$$F=m\frac{d^2x}{dt^2}$$
 
 <!---
 itomt/itomt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
