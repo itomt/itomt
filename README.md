@@ -12,6 +12,9 @@ $$F=m\frac{d^2x}{dt^2}$$
 ## Section 2
 This is the second section.
 
+## Section 3
+This section is written by Visual Studio.
+
 <!---
 itomt/itomt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
