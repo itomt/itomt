@@ -27,3 +27,20 @@ This section is written by Visual Studio.
 itomt/itomt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Section 4
+The following is cpp source code.
+```cpp
+#include <iostream>
+#include <string>
+
+int main(){
+    int age = 24;
+    std::string name = "Tanaka Taro";
+    
+    std::cout << "Hello, My name is "<< name << "." << std::endl;
+    std::cout << "I'm "<< age<< " years old." << std::endl;
+    
+    return 0;
+}
+```
