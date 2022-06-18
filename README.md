@@ -11,7 +11,15 @@ $$F=m\frac{d^2x}{dt^2}$$
 
 ## Section 2
 This is the second section.
+```c:hello.c
+#include "stdio.h"
 
+int main(){
+    printf("Hello World!\n");
+    
+    return 0;
+}
+```
 ## Section 3
 This section is written by Visual Studio.
 
